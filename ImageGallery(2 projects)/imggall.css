@@ -1,0 +1,29 @@
+.jumbotron{
+	color: lightslategray;
+	background: #ecf0f1;
+	background-size: 100% 100% no-repeat;
+	background-image: url(https://images.unsplash.com/5/unsplash-kitsune-4.jpg?dpr=1&auto=compress,format&fit=crop&w=1199&);
+	height: 500px;
+	text-align: center;
+}
+
+body {
+	padding-top: 70px;
+}
+
+.navbar-inverse{
+	background:#2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+	font-size: 12px;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.fa-camera-retro{
+	color: lightslategray;
+}
